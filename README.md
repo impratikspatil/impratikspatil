@@ -1,4 +1,12 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/impratikspatil/impratikspatil/main/githubcopilot.png" 
+       alt="Banner" 
+       width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 # 🚀 Hi, I'm Pratik Patil  
 
