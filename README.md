@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/impratikspatil/impratikspatil/main/githubcopilot.png" 
+  <img src="https://raw.githubusercontent.com/impratikspatil/impratikspatil/master/githubcopilot.png" 
        alt="Banner" 
        width="100%" />
 </div>
