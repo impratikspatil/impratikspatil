@@ -8,11 +8,6 @@
 
 <div align="center">
 
-# 🚀 Hi, I'm Pratik Patil  
-
-### Backend Engineer | Java | Spring Boot | Microservices | REST APIs  
-
-Pune, Maharashtra, India  
 
 </div>
 
